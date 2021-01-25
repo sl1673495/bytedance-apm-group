@@ -11,7 +11,7 @@
 
 具体的部门介绍可以看这里：https://webinfra.org/bytedance/web-infra
 
-加我微信：
+加我微信，备注「面试」：
 
 <img src="https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg" width="300" height="400"/>
 
