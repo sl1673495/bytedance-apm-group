@@ -12,7 +12,9 @@
 具体的部门介绍可以看这里：https://webinfra.org/bytedance/web-infra
 
 加我微信：
-![wechat](https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg)
+
+<div align=center><img src="https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg" width="300" height="300"/></div>
 
 或者直接发送简历到：
+
 shanshihao@bytedance.com
