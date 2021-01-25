@@ -13,7 +13,7 @@
 
 加我微信：
 
-<div align=center><img src="https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg" width="300" height="500"/></div>
+<div align=center><img src="https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg" width="300" height="400"/></div>
 
 或者直接发送简历到：
 
