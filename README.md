@@ -25,7 +25,7 @@
 
 加我微信 sshsunlight，备注「面试」：
 
-<img src="https://ssh-1300257814.cos.ap-shanghai.myqcloud.com/qr.jpg" width="300" height="400"/>
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/017d568dc1d14cd883cc3238350a39ec~tplv-k3u1fbpfcp-watermark.image)
 
 或者直接发送简历到：
 
